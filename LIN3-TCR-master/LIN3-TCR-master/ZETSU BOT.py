@@ -1366,7 +1366,7 @@ def bot(op):
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': mid}
                 cl.sendMessage(msg)
-                cl.sendText(msg.to,"☝☝ Creator by Zetsu ✍😳")
+                cl.sendText(msg.to,"☝☝ Creator by Arz ✍😳")
 #-----------------------------------------------------------
             elif "Spam @" in msg.text:
                 _name = msg.text.replace("Spam @","")
