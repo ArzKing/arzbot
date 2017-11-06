@@ -1,5 +1,5 @@
-# LINE TCR
-Forked from LINEALPHA [MerkKremont]
+# Arz Bot
+Forked from Arz
 
 fixing some error and delete unusable code 
 
